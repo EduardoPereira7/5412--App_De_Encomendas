@@ -1,0 +1,5 @@
+0;1;Maria Sofia Santos Rocha;IcedTea;Arroz de pato;13,2;18/04/2023 22:33:58;;Pendente;Visa;LOJA
+1;2;José Alberto Gomes Silva;Sumol;Arroz de pato,Strogonoff de frango;28,5;18/04/2023 22:33:58;22/04/2023 22:33:58;EmPreparacao;Mbway;LOJA
+2;2;José Alberto Gomes Silva;Sumol;Lasanha à bolonhesa;10,5;19/04/2023 22:33:58;24/04/2023 22:33:58;ProntoParaEntrega;Mbway;LOJA
+3;3;Ana Carolina Pereira Sousa;IcedTea;Arroz de pato;13,2;20/04/2023 22:33:58;;Entregue;Local;LOJA
+4;2;José Alberto Gomes Silva;IcedTea;Strogonoff de frango;16,2;07/02/2024 23:49:59;;Pendente;Paypal;ergergerg, N.332, fwef w few, fewff w few, 4520-226

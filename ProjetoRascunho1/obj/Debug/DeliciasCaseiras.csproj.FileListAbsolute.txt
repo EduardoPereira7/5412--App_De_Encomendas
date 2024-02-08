@@ -1,0 +1,165 @@
+D:\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe.config
+D:\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe
+D:\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.pdb
+D:\proj\ProjetoRascunho1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\proj\ProjetoRascunho1\bin\Debug\Newtonsoft.Json.xml
+D:\proj\ProjetoRascunho1\bin\Debug\RestSharp.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Buffers.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.CodeDom.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Data.Odbc.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Data.OleDb.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Data.SqlClient.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Diagnostics.EventLog.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Drawing.Common.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.IO.Packaging.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.IO.Ports.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Memory.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Numerics.Vectors.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.AccessControl.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Permissions.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Security.Principal.Windows.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.ServiceModel.Syndication.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\proj\ProjetoRascunho1\bin\Debug\System.Threading.AccessControl.xml
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.AssemblyReference.cache
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.SuggestedBindingRedirects.cache
+D:\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.Properties.Resources.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.GenerateResource.cache
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CoreCompileInputs.cache
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.Fody.CopyLocal.cache
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CopyComplete
+D:\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.exe
+D:\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.pdb
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.AdicionarCliente.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Clientes.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.ConfirmarPedido.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.criarPedido.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Endereco.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.GerirPedidos.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Inicio.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Lucro.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.MenuPrincipal.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Pagamento.resources
+D:\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Stock.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe.config
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.pdb
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\RestSharp.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Buffers.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.CodeDom.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Data.Odbc.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Data.OleDb.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Drawing.Common.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.IO.Packaging.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.IO.Ports.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Memory.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Permissions.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.AssemblyReference.cache
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.SuggestedBindingRedirects.cache
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.AdicionarCliente.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Clientes.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.ConfirmarPedido.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.criarPedido.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Endereco.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.GerirPedidos.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Inicio.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Lucro.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.MenuPrincipal.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Pagamento.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Stock.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.Properties.Resources.resources
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.GenerateResource.cache
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CoreCompileInputs.cache
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.Fody.CopyLocal.cache
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CopyComplete
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.exe
+C:\Users\egcp0\Desktop\proj\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.pdb
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe.config
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.exe
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\ProjetoRascunho1.pdb
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\RestSharp.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Buffers.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.CodeDom.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Data.Odbc.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Data.OleDb.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Drawing.Common.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.IO.Packaging.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.IO.Ports.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Memory.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Permissions.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.AssemblyReference.cache
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.SuggestedBindingRedirects.cache
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.AdicionarCliente.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Clientes.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.ConfirmarPedido.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.criarPedido.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Endereco.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.GerirPedidos.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Inicio.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Lucro.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.MenuPrincipal.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Pagamento.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.Stock.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.Properties.Resources.resources
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.GenerateResource.cache
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CoreCompileInputs.cache
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.Fody.CopyLocal.cache
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\DeliciasCaseiras.csproj.CopyComplete
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.exe
+C:\Users\egcp0\Downloads\Csharp Eduardo e Ricardo - TPSI0922\ProjetoRascunho1\obj\Debug\ProjetoRascunho1.pdb

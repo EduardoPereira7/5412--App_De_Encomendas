@@ -1,0 +1,6 @@
+Maria Sofia Santos Rocha;Rua do Calvario;994563258;1
+José Alberto Gomes Silva;Rua Sá Carneiro;994520148;2
+Ana Carolina Pereira Sousa;Avenida da Liberdade;993523694;3
+Pedro Miguel Almeida Costa;Rua dos Lírios;993564821;4
+Mariana Fernandes Santos;Rua do Sol;992536874;5
+Rui Manuel Oliveira Rodrigues;Rua da Paz;993547896;6
